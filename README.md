@@ -43,6 +43,7 @@ Visualization: Created plots for feature importance, confusion matrix, and stat 
 Incorporate Pokemon types as features
 Experiment with other algorithms (XGBoost, Neural Networks)
 Implement hyperparameter tuning
+
 Add a simple web interface for making predictions
 Expand to predict other Pokemon characteristics (e.g., type, generation)
 
