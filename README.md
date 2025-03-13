@@ -33,6 +33,8 @@ Base Total is the most important feature for predicting legendary status, which 
 Legendary Pokemon have significantly higher base stats across all categories compared to non-legendary Pokemon.
 Despite the imbalanced dataset (only 8.74% legendary Pokemon), the model performs well on both classes.
 
+Additional visualisationa are available in the results folder
+
 **Technical Implementation**
 Data Preprocessing: Handled missing values and scaled features using StandardScaler
 Model: Random Forest Classifier with optimized parameters
