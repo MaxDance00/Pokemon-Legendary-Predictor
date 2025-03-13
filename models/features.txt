@@ -1,0 +1,7 @@
+hp
+attack
+defense
+sp_attack
+sp_defense
+speed
+base_total
